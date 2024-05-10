@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="CTest(failed)">
+    <classes>
+      <class name="TestNg.BookShelvesTest">
+        <methods>
+          <include name="clickOnSearchBtn"/>
+          <include name="displayItemsInTheConsole"/>
+          <include name="closing"/>
+          <include name="setup"/>
+          <include name="selectingSort"/>
+          <include name="clickOnExludeChkBoxOption"/>
+          <include name="closingLoginDetailPage"/>
+          <include name="provideDetailInTheSearchBar"/>
+          <include name="homePageValidation"/>
+          <include name="selectingCategory"/>
+        </methods>
+      </class> <!-- TestNg.BookShelvesTest -->
+    </classes>
+  </test> <!-- CTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<Configuration status="WARN">
+ 
+<Properties>
+<Property name="basePath">./logs</Property>
+</Properties>
+ 
+ 
+<Appenders>
+<!-- genetare log on console -->
+<Console name="Console" target="SYSTEM_OUT">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+</Console>
+<!-- genetare log in file -->
+<RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="5000" />
+</RollingFile>
+</Appenders>
+<Loggers>
+<!-- for major deep issue use debug place pf Info -->
+<Root level="Info"><!-- Here you can use multiple log levels All < Trace < Debug < Info < Warn < Error < Fatal < Off -->
+<!-- <AppenderRef ref="Console"/> -->
+<!-- file above for console -->
+<AppenderRef ref="File"/> 
+</Root>
+</Loggers>
+</Configuration>

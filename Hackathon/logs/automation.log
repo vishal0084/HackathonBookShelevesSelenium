@@ -1,0 +1,45 @@
+15:25:33.939 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+15:25:34.745 [main] INFO  factory.BaseClass - User Searched for bookshelves price less than 15000
+15:25:41.297 [main] INFO  factory.BaseClass - User clicked on search button
+15:25:41.691 [main] INFO  factory.BaseClass - User Successfully redirected to Search Page
+15:25:45.119 [main] INFO  factory.BaseClass - User clicked on exclude Out of Stock
+15:25:49.542 [main] INFO  factory.BaseClass - User clicked on a filter to sort the price in high to low Order
+15:26:45.148 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+15:26:46.079 [main] INFO  factory.BaseClass - User Searched for bookshelves price less than 15000
+15:26:52.873 [main] INFO  factory.BaseClass - User clicked on search button
+15:26:53.234 [main] INFO  factory.BaseClass - User Successfully redirected to Search Page
+15:26:56.701 [main] INFO  factory.BaseClass - User clicked on exclude Out of Stock
+15:27:01.186 [main] INFO  factory.BaseClass - User clicked on a filter to sort the price in high to low Order
+15:27:05.718 [main] INFO  factory.BaseClass - User selected a category Bookshelves from the catergory Section
+17:44:44.610 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+17:44:46.624 [main] INFO  factory.BaseClass - User Searched for bookshelves price less than 15000
+17:44:54.409 [main] INFO  factory.BaseClass - User clicked on search button
+17:44:54.916 [main] INFO  factory.BaseClass - User Successfully redirected to Search Page
+17:44:58.480 [main] INFO  factory.BaseClass - User clicked on exclude Out of Stock
+17:45:03.120 [main] INFO  factory.BaseClass - User clicked on a filter to sort the price in high to low Order
+17:45:07.747 [main] INFO  factory.BaseClass - User selected a category Bookshelves from the catergory Section
+17:45:21.408 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+17:45:23.009 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+17:45:26.156 [main] INFO  factory.BaseClass - User choose any of the sub menu
+17:45:39.714 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+17:46:25.228 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+17:46:29.083 [main] INFO  factory.BaseClass - User Selected Birthday/Anniversary option
+17:46:30.643 [main] INFO  factory.BaseClass - User Filled the required details to fill the form for the gift card
+17:46:41.778 [main] INFO  factory.BaseClass - User Entered the Wrong email id
+17:46:45.221 [main] INFO  factory.BaseClass - User updated the correct value in the required field
+12:18:42.113 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+12:18:43.006 [main] INFO  factory.BaseClass - User Searched for bookshelves price less than 15000
+12:18:49.844 [main] INFO  factory.BaseClass - User clicked on search button
+12:18:50.172 [main] INFO  factory.BaseClass - User Successfully redirected to Search Page
+12:18:53.560 [main] INFO  factory.BaseClass - User clicked on exclude Out of Stock
+12:18:58.027 [main] INFO  factory.BaseClass - User clicked on a filter to sort the price in high to low Order
+12:19:02.521 [main] INFO  factory.BaseClass - User selected a category Bookshelves from the catergory Section
+12:19:26.198 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+12:19:27.020 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+12:19:29.719 [main] INFO  factory.BaseClass - User choose any of the sub menu
+12:19:55.041 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+12:20:40.008 [main] INFO  factory.BaseClass - User Successfully entered Homepage
+12:20:43.009 [main] INFO  factory.BaseClass - User Selected Birthday/Anniversary option
+12:20:44.337 [main] INFO  factory.BaseClass - User Filled the required details to fill the form for the gift card
+12:20:54.151 [main] INFO  factory.BaseClass - User Entered the Wrong email id
+12:20:56.947 [main] INFO  factory.BaseClass - User updated the correct value in the required field
